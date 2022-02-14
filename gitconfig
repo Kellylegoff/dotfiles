@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kelly@mavana.earth
+	name = kelly@mavana.earth
